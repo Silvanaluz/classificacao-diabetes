@@ -213,7 +213,10 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
-marimo/_lsp/
+marimo/_lsp/*.csv
+resultados/
+__pycache__/
+*.pyc
 __marimo__/
 
 # Streamlit
