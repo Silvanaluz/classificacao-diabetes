@@ -1,6 +1,9 @@
 # Deteccao de Diabetes - Classificacao com KNN, Arvore de Decisao e Rede Neural
 
 Disciplina: Mineração de Dados
+Alunas:Daniella Alves
+Julia Ferreira
+Silvana Luz
 
 ---
 
