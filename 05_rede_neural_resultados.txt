@@ -1,0 +1,5 @@
+Melhor configuracao: {'hidden_layer_sizes': (64,), 'alpha': 0.001, 'learning_rate_init': 0.001}
+Iteracoes de treino: 37
+
+Treino | Acuracia=0.6991 | Precisao=0.6792 | Recall=0.8000 | F1=0.7347
+Validacao | Acuracia=0.7407 | Precisao=0.7059 | Recall=0.8571 | F1=0.7742

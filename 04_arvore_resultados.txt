@@ -1,0 +1,20 @@
+Melhor profundidade: 3
+
+Importancia das features:
+  HEMOGLOBIN: 0.6596
+  GLUCOSE: 0.2675
+  TRIGLYCERIDES: 0.0605
+  SMOKER: 0.0125
+  STUDY_PROTOCOL: 0.0000
+  GENDER: 0.0000
+  AGE: 0.0000
+  HEIGHT: 0.0000
+  WEIGHT: 0.0000
+  BLOOD_PRESSURE: 0.0000
+  BLOOD_TYPE: 0.0000
+  PHYSICAL_ACTIVITY: 0.0000
+  FAMILY_HISTORY: 0.0000
+  SODIUM: 0.0000
+
+Treino | Acuracia=0.8935 | Precisao=0.9282 | Recall=0.8622 | F1=0.8940
+Validacao | Acuracia=0.8704 | Precisao=0.8500 | Recall=0.9107 | F1=0.8793

@@ -1,0 +1,20 @@
+ANALISE EXPLORATORIA - DETECCAO DE DIABETES
+Treino: (540, 21)
+Teste : (312, 20)
+
+Distribuicao da variavel-alvo:
+              Contagem  Percentual (%)
+class                                 
+Diabetes (1)       281           52.04
+Controle (0)       259           47.96
+
+Estatisticas descritivas:
+          AGE  WEIGHT  GLUCOSE  HEMOGLOBIN  TRIGLYCERIDES  SODIUM
+count  535.00  527.00   479.00      416.00         494.00  528.00
+mean    61.96   80.52   115.89       10.98         178.74  140.03
+std     71.81   29.23    65.25       13.41         195.67    2.48
+min     -1.00   41.30     3.10        4.70          21.00  133.00
+25%     49.00   63.90    87.00        5.50         107.00  138.00
+50%     57.00   76.00   103.00        6.35         151.00  140.00
+75%     67.00   87.25   133.00        8.93         202.75  142.00
+max    999.00  242.10   500.00      116.00        2880.00  149.00
